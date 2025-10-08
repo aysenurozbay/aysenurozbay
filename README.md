@@ -1,100 +1,89 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=8F37FF&width=435&lines=Hi,+I'm+Aysenur;Frontend+%26+Mobile+Developer;Enthusiast" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/Hi,%20I'm%20Aysenur%20👋-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED&logo=react&logoColor=white" alt="Aysenur" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend%20%26%20Mobile%20Developer%20|%20React%20|%20React%20Native-334155?style=for-the-badge&labelColor=334155&color=334155" alt="Role" />
+</p>
+
+---
+
+## About Me
+
+Experienced in designing and developing user-focused web and mobile applications with a passion for modern UI/UX.  
+Constantly learning, building, and seeking new challenges in the world of frontend and mobile development.
+
+- Specializing in React, React Native, and scalable interface design
+- Advocating for clean code, performance, and delightful user experiences
+- Enjoying rapid prototyping and delivering production-ready solutions
+
+---
+
+## Featured Projects
+
+- **Food-tech Platform (Paket Mutfak)**
+  - Internal tools for product sales, stock management & courier ops  
+  _React & React Native_
+
+- **DAO Technology Mobile App**
+  - Developed fully and published to app stores  
+  _React Native_
+
+- **VR Prototypes @ NETAŞ**
+  - User interaction flows & 3D environment optimization  
+  _Unity_
+
+- **Personal Projects**
+  - Car Renting Website _(Laravel)_
+  - Airport Transfer App _(Django)_
+  - Business Partner Platform _(React Native & Web)_
+
+---
+
+## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20%26%20Mobile%20Developer-React%20%7C%20React%20Native-blueviolet?style=flat-square&logo=react" alt="Frontend & Mobile Developer">
+  <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/React%20Native-7C3AED?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Laravel-7C3AED?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
-<br>
+
+
+## Tools
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aysenurozbay">
-    <img src="https://img.shields.io/badge/LinkedIn-aysenurozbay-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/aysenurozbay">
-    <img src="https://img.shields.io/badge/GitHub-aysenurozbay-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/CI%2FCD-7C3AED?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Unity-7C3AED?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Contact
 
-**Frontend & Mobile Developer**  
-🌟 Passionate about building user-centric experiences with React, React Native, and always exploring new technologies.
-
-- 👩‍💻 **Profession:** Frontend & Mobile Developer _(React / React Native)_
-- 🛠️ **Expertise:** Scalable web & mobile apps, XR/Metaverse prototyping, cloud infrastructure
-- 🎯 **Mission:** Designing seamless digital products and pushing the boundaries of user experience
-
----
-
-## 🧰 Skills & Technologies
-
-| Languages & Frameworks | Cloud & Infrastructure | Mobile | XR / Metaverse |
-|:----------------------:|:---------------------:|:------:|:--------------:|
-| React ⚛️, React Native 📱, JavaScript (ES6+) ✨, TypeScript, Python 🐍, PHP (Laravel) 🦄 | Google Cloud Platform 🌐, AWS 🚀 | Full app lifecycle – from architecture to app store deployment | VR prototyping & 3D flows with Unity |
-
----
-
-## 🌟 Featured Projects
-
-- 🍽️ **Food-tech Platform (Paket Mutfak)**  
-  _Internal tools for product sales, stock management & courier operations_  
-  `React & React Native`
-- 🦾 **DAO Technology Mobile App**  
-  _Developed end-to-end and published to stores_  
-  `React Native`
-- 🕹️ **VR Prototypes @ NETAŞ**  
-  _User interaction flows & 3D environment optimizations_  
-  `Unity`
-- 🖥️ **Personal Projects:**  
-  - 🚗 Car Renting Website (`Laravel`)
-  - ✈️ Airport Transfer App (`Django`)
-  - 🤝 Business Partner Platform (`React Native + Web`)
-
----
-
-## 🏅 Achievements & Certifications
-
-- 🏆 Published production-level mobile apps on **Google Play & App Store**
-- ☁️ Hands-on deployment experience with **GCP** and **AWS**
-- 📜 **AWS Certification** (Coursera)
-- 🗣️ **IIENSTITU** language certificates
-
----
-
-## 💡 Interests
-
-- 🔭 Exploring software trends & contributing to open-source
-- 🕶️ Mobile and VR/Metaverse technologies
-- 🎨 UI/UX and digital product design
-- 📷 Photography, 🌍 traveling, discovering new cultures
-
----
-
-## 🔗 Quick Links
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aysenurozbay">
-    <img alt="LinkedIn" height="36" src="https://cdn.simpleicons.org/linkedin/0077B5" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aysenurozbay">
-    <img alt="GitHub" height="36" src="https://cdn.simpleicons.org/github/181717" />
-  </a>
+<p align="center" style="font-size:0.9em; color:#888;">
+  <a href="https://www.linkedin.com/in/aysenurozbay" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@justcallA" target="_blank">Medium</a> &nbsp;|&nbsp;
+  <a href="https://vercel.com/aysenur-ozbays-projects" target="_blank">Vercel</a>
 </p>
 
 ---
 
-## 🤝 Let’s Collaborate!
+<details>
+  <summary>More About Me</summary>
 
-✨ I love building user-focused applications and constantly experimenting with new technologies.  
-Feel free to reach out for collaborations on React/React Native and innovative tech projects!
+- 🚀 Published production apps on <b>Google Play</b> & <b>App Store</b>  
+- ☁️ Hands-on experience with <b>GCP</b> and <b>AWS</b> deployments  
+- 🎓 <b>AWS Certification</b> (Coursera)  
+- 🌐 Fluent in English & Turkish (certified)  
+- 🎨 UI/UX design enthusiast  
+- 🕶️ Exploring VR / Metaverse technologies  
+- 📸 Photography & traveling around the world  
+- ✨ **Fun fact:** I love creating cool effects with <b>React Native animations</b>  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurozbay&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+</details>
